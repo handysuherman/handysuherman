@@ -6,9 +6,9 @@ Hello! I had been working in tech company for more than 3 years.
 <h2></h2>
 <h3>Languages</h3>
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="Go" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" style="display:inline-block; margin-right:6px;"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" width="40" height="40" style="display:inline-block; margin-right:6px;"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="Go" width="40" height="40" style="display:inline-block; margin-right:6px;"/></span>
 </div>
 
 <h3>Infra</h3>
