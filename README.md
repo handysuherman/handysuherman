@@ -1,41 +1,38 @@
-Hello! I had been working in tech company for more than 3 years.
+# 👋 Hello, I'm Handy
 
-- Daily basis mostly in backend with Go-Lang , PHP and server administration ( DevOps ).
-- Only use Typescript for my Frontend projects.
+💼 5+ years of experience
+⚙️ Focused on scalable systems, data management, and DevOps
 
-<h2></h2>
-<h3>Languages</h3>
-<div>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" style="display:inline-block; margin-right:6px;"/></span>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" width="40" height="40" style="display:inline-block; margin-right:6px;"/></span>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="Go" width="40" height="40" style="display:inline-block; margin-right:6px;"/></span>
-</div>
+---
 
-<h3>Infra</h3>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"  title="NGINX" width="50" height="50" style="display:inline-block; margin-right:6px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/envoy/envoy-original.svg"  title="Envoy" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" title="Redis" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"  height="40" width="40" title="Docker" style="display:inline-block; margin-right:6px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" title="MariaDB" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="./.github/resources/jaeger-vector.svg" title="Jaeger" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/consul/consul-original.svg" title="Consul" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="./.github/resources/etcd.svg" title="etcd" width="40" height="40" />
-</div>
+## 🚀 About Me
 
-<h3>Frameworks & Tech</h3>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="./.github/resources/grpc.png" title="gRPC" width="70" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="swagger" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="./.github/resources/expo-react-native.png" alt="React Native Expo" title="React Native Expo" width="40" height="40" style="display:inline-block; margin-right:6px;"/>
-<img src="./.github/resources/cloud-we-go.png" alt="CloudWeGo Hertz" title="CloudWeGo Hertz" width="150" height="40" style="display:inline-block; margin-right:6px;"/>
-</div>
+* 🧠 Strong in backend development using **Go** and **PHP**
+* ⚡ Experienced in **system design, APIs, and infrastructure**
+* 🛠️ Comfortable with **server administration & DevOps workflows**
+* 🎯 Use **TypeScript** for frontend when needed
+
+---
+
+## 🧩 Tech Stack
+
+### 🖥️ Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+
+---
+
+### ⚙️ Infrastructure
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
+
+---
+
+### 🧪 Frameworks & Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40"/>
+
+
+---
+
+I enjoy building systems that *just work* — clean, efficient, and scalable.
