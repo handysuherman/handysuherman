@@ -1,12 +1,9 @@
 # 👋 Hello, I'm Handy
 
-* 5+ years of experience
-* Focused on scalable systems, data management, and DevOps
-
----
-
 ## About Me
 
+* 5+ years of experience
+* Focused on scalable systems, data management, and DevOps
 * Strong in backend development using **Go** and **PHP**
 * Experienced in **system design, APIs, and infrastructure**
 * Comfortable with **server administration & DevOps workflows**
