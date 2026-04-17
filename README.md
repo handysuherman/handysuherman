@@ -35,4 +35,4 @@
 
 ---
 
-I enjoy building systems that *just work* — clean, efficient, and scalable.
+I enjoy building systems that clean, efficient, and scalable.
